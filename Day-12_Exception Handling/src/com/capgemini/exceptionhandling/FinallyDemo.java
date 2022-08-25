@@ -6,8 +6,8 @@ public class FinallyDemo {
 		System.out.println(arr[3]);
 		System.out.println("Fourth element successfully displayed");
 	}
-    public static void main(String[] args)
-    {
+        public static void main(String[] args)
+     {
         System.out.println("First line");
         System.out.println("Second line");
         
