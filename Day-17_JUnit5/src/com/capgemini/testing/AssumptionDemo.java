@@ -10,7 +10,7 @@ public class AssumptionDemo
      {
     	 System.setProperty("sanu", "dhanu");
     	 //if assupion is true then printing statment will print otherwise not
-    	 System.out.println("Assumption is True");
+    	 System.out.println(" Assumption is True ");
     	 
     	 
      }

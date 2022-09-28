@@ -24,6 +24,6 @@ class MyExecutable implements Executable
 {
 	public void execute()
 	{
-		System.out.println("Welcome to M23 batch");
+		System.out.println("Ganapati Bappa Morya");
 	}
 }

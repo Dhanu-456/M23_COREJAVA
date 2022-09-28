@@ -9,7 +9,8 @@ public class DisableMethodDemo
 	@Test 
 	void display()
 	{
-		System.out.print("not disable");
+		System.out.print(" not disable ");
+
 	}
 	
 
@@ -17,7 +18,7 @@ public class DisableMethodDemo
      @Test
      void accept()
      {
- 		System.out.print("disable");
+ 		System.out.print(" disable ");
 
      }
 }

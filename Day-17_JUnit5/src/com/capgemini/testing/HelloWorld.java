@@ -7,7 +7,7 @@ public  class HelloWorld implements TestLifeCycleLogger
 	@Test
 	void print()
 	{
-		System.out.print("hello world");
+		System.out.print(" hello world ");
 	}
 }
 

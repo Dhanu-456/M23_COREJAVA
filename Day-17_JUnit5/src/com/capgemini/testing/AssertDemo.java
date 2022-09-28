@@ -7,7 +7,7 @@ public class AssertDemo
 	@Test
 void display()
 {
-	int result=5;
+    int result=5;
 	int expected=5;
 	assertEquals(result,expected);
 }

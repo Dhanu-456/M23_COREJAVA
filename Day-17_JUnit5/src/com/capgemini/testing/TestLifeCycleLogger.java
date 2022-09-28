@@ -12,13 +12,13 @@ public interface TestLifeCycleLogger
      default void testMethod()
 	
 	{
-		System.out.println("Test Method");
+		System.out.println(" Test Method ");
 	}
     @BeforeAll
 		default void  BeforeAlltests()
 		
 		{
-			System.out.println("Before all test");
+			System.out.println(" Before all test ");
 		}
 	}
 
